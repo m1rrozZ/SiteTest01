@@ -1,0 +1,42 @@
+body {
+    background-color: #0000;
+    background-image: url('11844-temnye-oboi-na-noutbuk.html');
+    background-size: cover; 
+}
+
+
+.wrapper {
+    max-width: 800px;    
+    min-height: calc(100vh - 16px);   
+    margin: 0 auto;
+    background-color: #0000;
+}
+
+.heading {
+    text-align: center;
+}
+
+h1 {
+    font-size: 56px;
+    margin: 5 auto;
+    
+}
+
+.text-heading {
+    color: #fff;
+}
+
+.columns {
+    display: flex;
+    gap: 40px;
+}
+
+.column {
+    width: 50%;
+}
+
+.column img {
+    max-width: 100%;
+    position: relative;
+    top: 45px;
+}
